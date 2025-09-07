@@ -1,1 +1,1 @@
-web: git clone --depth 1 --branch 17.0 https://github.com/odoo/odoo.git && cd odoo && python odoo-bin -c ../odoo.conf --db_host=$DB_HOST --db_port=$DB_PORT --db_user=$DB_USER --db_password=$DB_PASSWORD --db_name=$DB_NAME
+web git clone --depth 1 --branch 17.0 https://github.com/odoo/odoo.git && cd odoo && python odoo-bin -c ../odoo.conf --db_host=$DB_HOST --db_port=$DB_PORT --db_user=$DB_USER --db_password=$DB_PASSWORD --db_name=$DB_NAME
