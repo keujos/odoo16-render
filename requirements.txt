@@ -8,4 +8,5 @@ freezegun==1.1.0
 geoip2==2.9.0
 psycopg2-binary==2.9.9
 Werkzeug==2.2.3
+passlib==1.7.4
 # gevent est volontairement supprimé pour éviter les erreurs de build
