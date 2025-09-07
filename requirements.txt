@@ -1,2 +1,4 @@
 -r https://raw.githubusercontent.com/odoo/odoo/16.0/requirements.txt
-psycopg2-binary
+psycopg2-binary==2.9.9
+gevent==21.12.0
+
