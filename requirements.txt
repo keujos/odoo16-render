@@ -1,2 +1,4 @@
 -r https://raw.githubusercontent.com/odoo/odoo/17.0/requirements.txt
 psycopg2-binary
+# on désactive gevent (sinon ça casse le build)
+gevent==0.0.0
